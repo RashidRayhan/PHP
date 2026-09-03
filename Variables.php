@@ -11,7 +11,7 @@
     echo "My name is $x <br>";
     echo "My age is $y years old <br>";
     echo "I love $txt <br>";
-    echo 'the result is ' .$a + $b.;
+    echo 'the result is ' .$a + $b. '!';
 ?>
 </body>
 </html>
